@@ -1,6 +1,10 @@
 ![Header](./github-header-image.png)
 ### Hi there 👋
 
+I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, NextJS, NodeJS, MongoDB, Mean Stack, RESTfull API’s. I have experience of managing big devlopment teams and working directly with stake holders. 
+
+[![Linkedin: Ankita](https://img.shields.io/badge/-Ankita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ghazi-khan/](https://www.linkedin.com/in/ankita-sharma-413b1027b/))]([https://www.linkedin.com/in/ghazi-khan/](https://www.linkedin.com/in/ankita-sharma-413b1027b/))
+
 <!--
 **techexplorer1231/techexplorer1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
