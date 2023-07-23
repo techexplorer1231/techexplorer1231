@@ -4,6 +4,16 @@ I am an Experienced Fullstack Developer with a demonstrated history of working i
 
 [![Linkedin: Ankita](https://img.shields.io/badge/-Ankita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ghazi-khan/](https://www.linkedin.com/in/ankita-sharma-413b1027b/))]([https://www.linkedin.com/in/ghazi-khan/](https://www.linkedin.com/in/ankita-sharma-413b1027b/))
 
+## My Recent Projects
+
+### Admin Ecommerce Dashboard
+[Project Link](https://admin-dashboard-frontend-ct0c.onrender.com/dashboard)
+![Header](./ecommerce.jpeg)
+
+### Prompt Manager
+[Project Link](https://prompt-manager-lime.vercel.app/)
+![Header](./prompt_manager.jpeg)
+
 <!--
 **techexplorer1231/techexplorer1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
