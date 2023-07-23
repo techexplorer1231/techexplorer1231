@@ -7,7 +7,7 @@ I am an Experienced Fullstack Developer with a demonstrated history of working i
 ## My Recent Projects
 
 ### Admin Ecommerce Dashboard
-[Project Link](https://admin-dashboard-frontend-ct0c.onrender.com/dashboard)
+[Project Link](https://admin-dashboard-frontend-ct0c.onrender.com/)
 ![Header](./ecommerce.jpeg)
 
 ### Prompt Manager
