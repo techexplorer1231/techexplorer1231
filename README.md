@@ -1,5 +1,4 @@
 ![Header](./github-header-image.png)
-### Hi there 👋
 
 I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, NextJS, NodeJS, MongoDB, Mean Stack, RESTfull API’s. I have experience of managing big devlopment teams and working directly with stake holders. 
 
