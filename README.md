@@ -12,7 +12,7 @@ I am an Experienced Fullstack Developer with a demonstrated history of working i
 
 ### Airbnb Clone
 [Project Link](rental-application-ecru.vercel.app)
-![Header](./airbnb.jpeg)
+![Header](./rental-application-ecru.vercel.app_listings_64c03582b1ed49181fd0318a (1).png)
 
 ### Prompt Manager
 [Project Link](https://prompt-manager-lime.vercel.app/)
