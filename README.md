@@ -1,20 +1,23 @@
 ![Header](./github-header-image.png)
 
-I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, NextJS, NodeJS, MongoDB, Mean Stack, RESTfull API’s. I have experience of managing big devlopment teams and working directly with stake holders. 
+I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. Skilled in React JS, NextJS, NodeJS, MongoDB, Mean Stack, RESTfull API’s. I have experience of managing big devlopment teams and working directly with stake holders.
 
 [![Linkedin: Ankita](https://img.shields.io/badge/-Ankita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankita-sharma-413b1027b/)](https://www.linkedin.com/in/ankita-sharma-413b1027b/)
 
 ## My Recent Projects
 
 ### Admin Ecommerce Dashboard
+
 [Project Link](https://admin-dashboard-frontend-ct0c.onrender.com/)
 ![Header](./ecommerce.jpeg)
 
 ### Airbnb Clone
+
 [Project Link](rental-application-ecru.vercel.app)
-![Header](./rental-application-ecru.vercel.app_listings_64c03582b1ed49181fd0318a (1).png)
+![Header](./airbnb.png)
 
 ### Prompt Manager
+
 [Project Link](https://prompt-manager-lime.vercel.app/)
 ![Header](./prompt_manager.jpeg)
 
